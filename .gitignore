@@ -1,0 +1,7 @@
+scripts/__pycache__
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+trained_models/best_ocr_model.pth
+trained_models/model_final.pth
+trial
