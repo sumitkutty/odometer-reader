@@ -13,6 +13,13 @@
 > pip install -r requirements.txt
 ```
 
+#### Download Pre-trained Model
+* Download pretrained model from [here](https://drive.google.com/drive/folders/1YGlJMP3KQsKRO6bZLFnLgItCxwPds8Lu?usp=share_link) and store them in
+```
+odometer-reader/trained_models/
+```
+
+
 #### Run the test_predict.py on target folder
 ```
 > python3 test_predict.py --images_path PATH_TO_IMAGE_FOLDER 
